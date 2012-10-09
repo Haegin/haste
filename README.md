@@ -1,0 +1,4 @@
+haste
+=====
+
+A pastebin
